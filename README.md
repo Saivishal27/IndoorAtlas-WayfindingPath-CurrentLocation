@@ -1,0 +1,1 @@
+# IndoorAtlas-WayfindingPath-CurrentLocation
